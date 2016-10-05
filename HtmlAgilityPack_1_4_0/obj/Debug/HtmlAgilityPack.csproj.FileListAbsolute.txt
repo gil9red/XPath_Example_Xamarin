@@ -1,0 +1,7 @@
+C:\Users\ipetrash\Documents\Visual Studio 2015\Projects\XPath_Example_Xamarin\HtmlAgilityPack_1_4_0\bin\Debug\HtmlAgilityPack.XML
+C:\Users\ipetrash\Documents\Visual Studio 2015\Projects\XPath_Example_Xamarin\HtmlAgilityPack_1_4_0\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ipetrash\Documents\Visual Studio 2015\Projects\XPath_Example_Xamarin\HtmlAgilityPack_1_4_0\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ipetrash\Documents\Visual Studio 2015\Projects\XPath_Example_Xamarin\HtmlAgilityPack_1_4_0\obj\Debug\HtmlAgilityPack.dll
+C:\Users\ipetrash\Documents\Visual Studio 2015\Projects\XPath_Example_Xamarin\HtmlAgilityPack_1_4_0\obj\Debug\HtmlAgilityPack.pdb
+C:\Users\ipetrash\Documents\Visual Studio 2015\Projects\XPath_Example_Xamarin\HtmlAgilityPack_1_4_0\obj\Debug\HtmlAgilityPack.dll.mdb
+C:\Users\ipetrash\Documents\Visual Studio 2015\Projects\XPath_Example_Xamarin\HtmlAgilityPack_1_4_0\bin\Debug\HtmlAgilityPack.dll.mdb
